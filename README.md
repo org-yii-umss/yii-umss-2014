@@ -1,4 +1,4 @@
 yii-umss-2014
 =============
 
-curso yii
+Esta es una prueba de git ok
